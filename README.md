@@ -47,7 +47,7 @@ Site vitrine développé bénévolement pour l'association **Saves The Soul**. L
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 - **HTML5** : Structure sémantique et accessible
 - **CSS3** : Mise en page responsive, animations et effets visuels
