@@ -11,6 +11,16 @@ Site vitrine développé bénévolement pour l'association **Saves The Soul**. L
 
 ---
 
+## Aperçu
+
+#### Page d'accueil
+
+
+#### Page événement
+
+
+
+---
 ## Objectifs du projet
 
 - Créer une vitrine web professionnelle pour promouvoir l'association
