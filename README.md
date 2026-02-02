@@ -161,4 +161,3 @@ Pour toute question concernant ce projet :
 ---
 
 **Développé Shirel Desmelliers**
-Site web : savesthesoul.fr
